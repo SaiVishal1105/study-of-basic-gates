@@ -82,6 +82,8 @@ xnor(y7,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
+![EXP1TT](https://github.com/SaiVishal1105/study-of-basic-gates/assets/145742557/f9de11f1-44c4-4ca8-a14f-51ef81333bd6)
+
 
 **RTL realization Output:** 
 ![alt text](<Screenshot 2024-03-14 133203.png>)
